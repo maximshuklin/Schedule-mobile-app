@@ -24,11 +24,13 @@ Functionality
 
 ## How does it look?
 
-<td>
+<table>
   <tr>
-    <img src="images/Homework.png" alt="homework" width="350"/>
+    <td>
+      <img src="images/Homework.png" alt="homework" width="350"/>
+    </td>
+    <td>
+      <img src="images/Bells.png" alt="homework" width="350"/>
+    </td>
   </tr>
-  <tr>
-    <img src="images/Bells.png" alt="homework" width="350"/>
-  </tr>
-</td>
+</table>
