@@ -22,4 +22,7 @@ Functionality
 - Delete lesson
 - Change start/end timing
 
+## How does it look?
+
 <img src="images/Homework.png" alt="homework" width="350" style="float: right; margin-left: 100px; margin-bottom: 5px;"/>
+<img src="images/Bells.png" alt="homework" width="350" style="float: right; margin-left: 100px; margin-bottom: 5px;"/>
