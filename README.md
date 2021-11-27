@@ -1,5 +1,5 @@
 # Schedule-mobile-app
-Mobile application for storing school schedule and managing homework.
+Mobile application for storing school schedule and managing homework. This project was done within final project exam in my school.
 
 # Homework managing
 Supports several main commands:
