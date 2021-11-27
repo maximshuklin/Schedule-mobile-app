@@ -26,10 +26,10 @@ Functionality
 
 <table style="border: 0px;">
   <tr>
-    <td>
+    <td colspan="3">
       <img src="images/Homework.png" alt="homework" width="350"/>
     </td>
-    <td>
+    <td colspan="3">
       <img src="images/Bells.png" alt="homework" width="350"/>
     </td>
   </tr>
