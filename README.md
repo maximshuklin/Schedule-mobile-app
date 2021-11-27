@@ -24,7 +24,7 @@ Functionality
 
 ## How does it look?
 
-<table border="0px">
+<table style="border: 0px;">
   <tr>
     <td>
       <img src="images/Homework.png" alt="homework" width="350"/>
