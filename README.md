@@ -2,8 +2,10 @@
 Mobile application for storing school schedule and managing homework. This project was done within final project exam in my school.
 
 This app maintains two main goals:
+- Lesson schedule & Homework managing
+- Bells schedule 
 
-## Homework managing
+## Lesson schedule & Homework managing
 Supports several main commands:
 - Add new lesson
 - Delete lesson
@@ -11,7 +13,7 @@ Supports several main commands:
 - Add homework or some notes
 - Mark homework as completed
 
-## Bells managing
+## Bells schedule
 
 During covid-19 our school bells changed. This led to great confusion of students and teachers. I decided to add bells schedule as a separate tab in my app to check when lessons start.
 
