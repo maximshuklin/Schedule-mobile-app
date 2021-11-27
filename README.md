@@ -30,7 +30,7 @@ Functionality
       <img src="images/Homework.png" alt="homework" width="350"/>
     </td>
     <td colspan="3">
-      <img src="images/Bells.png" alt="homework" width="350"/>
+      <img src="images/Bells.png" alt="homework" width="350" valign="right"/>
     </td>
   </tr>
 </table>
