@@ -5,6 +5,8 @@ This app maintains two main goals:
 - Lesson schedule & Homework managing
 - Bells schedule 
 
+**Note:** interface is available only in russian.
+
 ## Lesson schedule & Homework managing
 Supports several main commands:
 - Add new lesson
@@ -15,7 +17,7 @@ Supports several main commands:
 
 ## Bells schedule
 
-During covid-19 our school bells changed. This led to great confusion of students and teachers. I decided to add bells schedule as a separate tab in my app to check when lessons start.
+During the covid-19 pandemic our school bells' schedule had changed. This led to great confusion among students and teachers. I decided to add bells schedule as a separate tab in my app to check when do lessons start.
 
 Functionality
 - Add new lesson
